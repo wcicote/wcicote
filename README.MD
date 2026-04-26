@@ -1,4 +1,4 @@
-# Wesley Cicote · QA Engineer
+# Wesley Cicote · Analista de Teste | QA
 
 ### Especialista em Qualidade em transição para QA de Software  
 #### Testes Manuais · API Testing · Cypress · Playwright · IA aplicada a QA
